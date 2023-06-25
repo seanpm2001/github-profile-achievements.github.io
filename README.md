@@ -4,6 +4,7 @@
 
 - [English](https://github-profile-achievements.github.io/english)
 - [Russian](https://github-profile-achievements.github.io/russian)
+- [Chinese](https://github-profile-achievements.github.io/chinese)
 - [Spanish](https://github-profile-achievements.github.io/spanish)
 - [German](https://github-profile-achievements.github.io/german)
 
