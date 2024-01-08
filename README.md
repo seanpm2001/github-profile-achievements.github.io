@@ -17,4 +17,3 @@ Now instructions for earning badges are written in **5 different languages**. If
 ### Other repositories with lists of achievements
 
 - [schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
-- [drknzz/github-achievements](https://github.com/drknzz/GitHub-Achievements)
